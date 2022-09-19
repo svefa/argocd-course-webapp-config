@@ -8,7 +8,7 @@ image:
   repository: svefa/argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: a4d741efc7c19ec28dffd7424e93d607d0e44864
+  tag: 1646b4033a4d8fbec5347a564530c0f5042924e4
 
 imagePullSecrets: []
 nameOverride: ""
